@@ -1,0 +1,12 @@
+.MediaPlayer {
+    max-width: 90%;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+audio {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
