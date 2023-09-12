@@ -5,9 +5,9 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 The goal of this project was to learn React Component Lifecycle Methods.  
 
 ## Features
-Search for songs
-Save favorites to playlists
-Edit playlists
+- Search for songs
+- Save favorites to playlists
+- Edit playlists
 
 ## How to run locally
 
